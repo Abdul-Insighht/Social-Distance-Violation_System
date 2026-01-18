@@ -11,7 +11,10 @@ Using YOLO (You Only Look Once) algorithms and OpenCV, the project aims to detec
 1. Python
 
 # Result:
-![Result](https://github.com/shivangdubey/Social-Distancing-Violation-System/blob/main/yolo_project.png)
+
+<p align="center">
+  <img src="yolo_project.png" alt="Social Distance Violation Detection" width="800"/>
+</p>
 
 
 ---
